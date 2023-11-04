@@ -1,0 +1,51 @@
+In questa settimana direi di concentrarci su come gestire i valori mancanti in un dataset.
+
+A seguito di quanto mi hai presentato venerdi scorso, direi che possiamo migliorare come rimpiazzare i valori mancanti in un caso reale.
+
+ 
+
+La tua soluzione è quella più semplice: rimuovere tutte le righe che hanno almeno un valore mancante in qualsiasi colonna (nel tuo caso, un sotto-insieme di colonne).
+
+Questa idea però non è applicabile in uno scenario reale, questo perché andremmo a eliminare potenzialmente tante righe del nostro dataset e anche perché nelle analisi successive andremmo a rappresentare un dataset differente da quello originale, da quello reale.
+
+ 
+
+Per questo motivo, nel corso del tempo si sono pensate a strade alternative:
+
+- Sostituire un valore mancante tramite media (se è una variabile numerica)
+- Sostituire un valore mancante tramite moda (se è una variabile categorica)
+- Sostituire un valore mancante tramite un valore di default, non ammissibile come valore della colonna presa in considerazione, e.g. "MISSING"
+- Sostituire un valore mancante tramite delle regole basandosi sui valori di altre colonne
+- Sostituire un valore mancante di una colonna tramite un algoritmo statistico/basato su ML, e.g. KNN
+
+
+Ovviamente, ogni tecnica ha i propri vantaggi e svantaggi, come per esempio applicare algoritmi ML-based richiedono più tempo e possono introdurre degli errori nel dataset.
+
+ 
+
+Capire quale tecnica applicare in ogni caso richiede esperienza nel trattare valori mancanti, ma soprattutto esperienza nel caso d’uso.
+Per esempio, se so che una colonna X non è valorizzata allora deve essere sostituita con un valore di default allora applicherò questa tecnica.
+
+Un mio consiglio è partire dalla tecnica più semplice, vedere i risultati ottenuti e se non contenti provare a complicare la soluzione.
+
+ 
+
+Ecco qui alcuni link che ti consiglio di guardare per acquisire maggiore conoscenza sia a livello teorico che a livello pratico:
+
+- 6.4. Imputation of missing values — scikit-learn 1.1.1 documentation : https://scikit-learn.org/stable/modules/impute.html
+- 6 Different Ways to Compensate for Missing Values In a Dataset (Data Imputation with examples) | by Will Badr | Towards Data Science : https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
+- 7 Ways to Handle Missing Values in Machine Learning | by Satyam Kumar | Towards Data Science : https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e
+- How to Deal with Missing Values in Your Dataset - KDnuggets : https://www.kdnuggets.com/2020/06/missing-values-dataset.html
+- 5 Ways To Handle Missing Values In Machine Learning Datasets (analyticsindiamag.com):https://analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/
+- Handling missing value | Data cleaning | Analytics Vidhya (medium.com): https://medium.com/analytics-vidhya/the-why-and-how-to-handle-missing-values-46ab8c1b9034
+- A Complete Guide to Dealing with Missing values in Python (analyticsvidhya.com) : https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-to-dealing-with-missing-values-in-python/
+- How to Handle Missing Data with Python (machinelearningmastery.com): https://machinelearningmastery.com/handle-missing-data-python/#:~:text=In%20Python%2C%20specifically%20Pandas%2C%20NumPy%20and%20Scikit-Learn%2C%20we,subset%20of%20the%20columns%20we%20are%20interested%20in.
+ 
+
+L'obiettivo di questa settimana è:
+
+- Capire a livello teorico il problema dei missing values
+- Quali possibilità possono essere messe in campo per gestire missing values
+- Provare le diverse tecniche su un dataset a piacere (puoi usare quello usato nell’assignment #1)
+- Trarre delle conclusioni e capire quali tecniche è meglio applicare in quale situazione
+ 
