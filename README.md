@@ -36,6 +36,6 @@ This repository contains materials related to machine learning and data science.
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## About
-This repository is maintained by Leon Doungala and contributors. If you have any questions or suggestions, please feel free to contact us.
+This repository is maintained by Leon Doungala and contributors. If you have any questions or suggestions, please feel free to contact me.
 
 Happy learning and exploring the world of data science and machine learning!
