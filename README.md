@@ -71,4 +71,12 @@ Cloud platforms like AWS, Azure, and Google Cloud are becoming increasingly crit
 
 ### e. Ethical and Responsible AI
 
-As AI continues to shape our world, I'm actively exploring ethical considerations and responsible AI practices. This is of
+As AI continues to shape our world, I'm actively exploring ethical considerations and responsible AI practices. This is of paramount importance, and I'm committed to understanding and promoting responsible AI. I'll share my insights in the [MSC in Computer Engineering and Automation AI and Automation Training Repository](https://github.com/LeonDoungala22/AI-and-Automation-Training).
+
+## License
+
+This repository is licensed under the MIT License. You can find further details in the [LICENSE](LICENSE) file.
+
+## About
+
+This repository is a testament to my dedication to learning and exploring the world of data science and machine learning throughout my Master's journey. If you have any questions, suggestions, or just want to connect, please feel free to contact me. Thank you for joining me on this exciting adventure.
