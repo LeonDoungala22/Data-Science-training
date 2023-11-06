@@ -45,6 +45,10 @@ I take a deep dive into the theoretical aspects of deep learning, including neur
 
 This section includes specific assignments and exercises related to the topics covered in this repository, serving as a valuable resource for my academic progress.
 
+## My CV and Cover Letter
+
+For a more detailed overview of my qualifications and aspirations, you can access my Curriculum Vitae (CV) and Cover Letter through the following link: [My CV and Cover Letter](https://github.com/LeonDoungala22/my-cv-and-cover-letter).
+
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -53,4 +57,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 This repository is maintained by Leon Doungala and contributors. If you have any questions or suggestions, please feel free to contact me.
 
-I'm committed to my journey of learning and exploring the world of data science and machine learning as I pursue my Master's in Data Science. Please feel free to explore the contents and follow my educational progress in this exciting field.
+I'm committed to my journey of learning and exploring the world of data science and machine learning as I pursue my Master's in Data Science. Please feel free to explore the contents, follow my educational progress in this exciting field, and learn more about my qualifications through my CV and Cover Letter.
