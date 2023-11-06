@@ -41,7 +41,9 @@ This section explores unsupervised learning techniques like clustering and dimen
 
 ## 8. Deep Learning - Theoretical Overview
 
-I've taken a deep dive into the theoretical aspects of deep learning, including neural networks and deep learning concepts, and I'm actively deepening my knowledge with more practical use cases and personal code. This area is a vital component of my Master's in Data Science program and my passion.
+I'm deeply committed to deepening my understanding of the theoretical aspects of deep learning, including neural networks and deep learning concepts. In addition, I'm actively working on incorporating more practical use cases and personal code examples in this area.
+
+You can explore the practical applications of deep learning in my [MSC in Computer Engineering and Automation AI and Automation Training Repository](https://github.com/LeonDoungala22/AI-and-Automation-Training).
 
 ## 9. Assignments
 
@@ -69,4 +71,4 @@ Cloud platforms like AWS, Azure, and Google Cloud are becoming increasingly crit
 
 ### e. Ethical and Responsible AI
 
-As AI continues to shape our world, I'm actively exploring ethical considerations and responsible AI practices. This is of paramount importance, and I'm committed to understanding and promoting responsible AI. I'll share my insights in the [MSC in Computer Engineering and Automation AI and Automation
+As AI continues to shape our world, I'm actively exploring ethical considerations and responsible AI practices. This is of
