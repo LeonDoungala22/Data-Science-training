@@ -1,9 +1,11 @@
 # Author: Leon Doungala
 # My Master's Journey in Data Science
 
-Welcome to my personal Data Science training repository for my Master's in Data Science program. This repository serves as a comprehensive resource for my academic journey in the field of data science. 
+Welcome to my personal Data Science training repository for my Master's in Data Science program. This repository serves as a comprehensive resource for my academic journey in the field of data science.
 
 In addition to this repository, you can explore my dedicated roadmap for AI and Automation tailored for my Master of Science in Computer Engineering and Automation, with a particular focus on Artificial Intelligence. You can access this roadmap by following this link: [AI and Automation Training Repository](https://github.com/LeonDoungala22/AI-and-Automation-Training).
+
+To learn more about my background, you can also check my [CV](https://github.com/LeonDoungala22/my-cv-and-cover-letter) and my [cover letter](https://github.com/LeonDoungala22/my-cv-and-cover-letter).
 
 ## Overview
 
@@ -45,10 +47,6 @@ I take a deep dive into the theoretical aspects of deep learning, including neur
 
 This section includes specific assignments and exercises related to the topics covered in this repository, serving as a valuable resource for my academic progress.
 
-## My CV and Cover Letter
-
-For a more detailed overview of my qualifications and aspirations, you can access my Curriculum Vitae (CV) and Cover Letter through the following link: [My CV and Cover Letter](https://github.com/LeonDoungala22/my-cv-and-cover-letter).
-
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -57,4 +55,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 This repository is maintained by Leon Doungala and contributors. If you have any questions or suggestions, please feel free to contact me.
 
-I'm committed to my journey of learning and exploring the world of data science and machine learning as I pursue my Master's in Data Science. Please feel free to explore the contents, follow my educational progress in this exciting field, and learn more about my qualifications through my CV and Cover Letter.
+I'm committed to my journey of learning and exploring the world of data science and machine learning as I pursue my Master's in Data Science. Please feel free to explore the contents and follow my educational progress in this exciting field.
