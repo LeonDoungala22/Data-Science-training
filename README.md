@@ -80,3 +80,6 @@ This repository is licensed under the MIT License. You can find further details 
 ## About
 
 This repository is a testament to my dedication to learning and exploring the world of data science and machine learning throughout my Master's journey. If you have any questions, suggestions, or just want to connect, please feel free to contact me. Thank you for joining me on this exciting adventure.
+
+
+Other learning path by Youssef Hosni: [Link](https://www.linkedin.com/posts/youssef-hosni-b2960b135_if-you-are-working-on-a-machine-learning-activity-7128380756099276800-wowV?utm_source=share&utm_medium=member_desktop)
